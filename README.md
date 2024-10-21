@@ -1,4 +1,4 @@
-It is a <a href="https://trackingmaster.in/">Tracking Master</a> Firefox extension that allows you to quickly search and track parcels on the Trackingmaster.in website. Simply enter your parcel ID, and the add-on will search for tracking information directly from the website.
+It is a Tracking Master Firefox extension that allows you to quickly search and track parcels on the <a href="https://trackingmaster.in/">Trackingmaster.in website</a>. Simply enter your parcel ID, and the add-on will search for tracking information directly from the website.
 
 Features
 Instant parcel tracking with just one click.
